@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="app" location="E:/Vivado_prj/sdt_v1_ov5640_v2/sdk/app" platform="E:/Vivado_prj/sdt_v1_ov5640_v2/sdk/plf/export/plf/plf.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="app_system" sysConfig="plf" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="52d1be76ad08e6647928b662c6f5ab5a">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.10258401" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1735177442" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

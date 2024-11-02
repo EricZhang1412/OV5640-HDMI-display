@@ -1,0 +1,27 @@
+verilog xil_defaultlib --include "E:/Vivado/2021.2/data/xilinx_vip/include" --include "../../../../sdt_v1_ov5640_v2.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../sdt_v1_ov5640_v2.gen/sources_1/bd/design_1/ipshared/3007/hdl" --include "../../../../sdt_v1_ov5640_v2.gen/sources_1/bd/design_1/ipshared/36fa/hdl" --include "../../../../sdt_v1_ov5640_v2.gen/sources_1/bd/design_1/ip/design_1_alinx_ov5640_0_0/src/ila_0/hdl/verilog" --include "../../../../sdt_v1_ov5640_v2.gen/sources_1/bd/design_1/ipshared/8713/hdl" \
+"../../../bd/design_1/ip/design_1_processing_system7_0_1/sim/design_1_processing_system7_0_1.v" \
+"../../../bd/design_1/ip/design_1_v_axi4s_vid_out_0_0/sim/design_1_v_axi4s_vid_out_0_0.v" \
+"../../../../sdt_v1_ov5640_v2.gen/sources_1/bd/design_1/ipshared/9097/src/mmcme2_drp.v" \
+"../../../bd/design_1/ip/design_1_xlconcat_0_0/sim/design_1_xlconcat_0_0.v" \
+"../../../bd/design_1/ip/design_1_xbar_1/sim/design_1_xbar_1.v" \
+"../../../bd/design_1/sim/design_1.v" \
+"../../../bd/design_1/ip/design_1_xbar_2/sim/design_1_xbar_2.v" \
+"../../../bd/design_1/ip/design_1_alinx_ov5640_0_0/src/ila_0/sim/ila_0.v" \
+"../../../../sdt_v1_ov5640_v2.gen/sources_1/bd/design_1/ipshared/564b/src/cmos_8_16bit.v" \
+"../../../../sdt_v1_ov5640_v2.gen/sources_1/bd/design_1/ipshared/564b/src/alinx_ov5640.v" \
+"../../../bd/design_1/ip/design_1_alinx_ov5640_0_0/sim/design_1_alinx_ov5640_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tdata_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tuser_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tstrb_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tkeep_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tid_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tdest_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/tlast_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/hdl/top_design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_axis_subset_converter_0_0/sim/design_1_axis_subset_converter_0_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
